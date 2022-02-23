@@ -1,0 +1,11 @@
+{
+	"client": {
+		"dir": "../client",
+		"pages": "pages",
+		"public": "dist"
+	},
+	"server": {
+		"host": "127.0.0.1",
+		"port": 80
+	}
+}
